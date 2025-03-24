@@ -68,7 +68,7 @@ Adarsh Srivastava
 
 Computer Science and Engineering 
 
-National Institute Of Technology
+National Institute Of Technology, Patna (NITP)
 
 [profile](https://github.com/adarsh-2011)
 
