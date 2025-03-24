@@ -65,9 +65,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 Adarsh Srivastava
-
 Computer Science and Engineering
-
 National Institute Of Technology, Patna (NITP)
 
 [profile](https://github.com/adarsh-2011)
