@@ -64,9 +64,11 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-Adarsh Srivastava
-Computer Science and Engineering
-National Institute Of Technology, Patna (NITP)
+Adarsh Srivastava 
+
+Computer Science and Engineering 
+
+National Institute Of Technology
 
 [profile](https://github.com/adarsh-2011)
 
